@@ -33,7 +33,7 @@ function listItems() {
   }
 }
 
-// Test listItems function. Console log each item on new line
+// Test listItems function. Call function. Each item should be on new line`
 listItems(basket);
 
 // Function to reset 'basket' to empty array
